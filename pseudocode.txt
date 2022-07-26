@@ -1,0 +1,34 @@
+main menu
+press one to create account menu
+    press one to input name
+    press two input age
+    creates account
+
+press two to manage account
+    press one to edit account details
+        press one to edit name
+        press two to edit age
+        press three to go back to manage account menu
+    press two to add a friend
+        enter current user
+        enter the friend being added
+        friend is added
+    press three to view all friends
+        enter current user
+        prints list of friends
+    press four to send a message
+        enter current user
+        enter message recipient
+        enter message
+        message sent
+    press five to view all messages
+        enter current user
+        print list of all messages recieved
+    press six to block a friend
+        enter current user
+        enter friend being blocked
+        friend blocked
+    press seven to go back to main menu
+        goes back to main menu
+
+press three to quit the social network

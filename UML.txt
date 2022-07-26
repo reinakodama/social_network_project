@@ -1,0 +1,26 @@
+object
+    user
+
+attributes
+    age:int
+    name:string
+
+functions
+    edit_details()
+    add_friend()
+    send_message()
+    block()
+    create_account()
+
+
+
+object
+    social network
+
+attributes
+    menus:string
+
+functions
+    mainMenu()
+    manageAccountMenu()
+    manageEditDetails()
